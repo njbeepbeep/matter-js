@@ -1,4 +1,4 @@
-alert("helllooooooo");
+console.log("helllooooooo");
 var Example = Example || {};
 
 Example.newtonsCradle = function() {
